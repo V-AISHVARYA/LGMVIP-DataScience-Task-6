@@ -4,17 +4,17 @@ Welcome to the Iris Dataset Prediction project repository! In this project, we h
 
 # Project Overview 
 The main goal of this project is to demonstrate the application of the Decision Tree algorithm in the field of classification. Decision Trees are powerful and interpretable machine learning models that can be used for both classification and regression tasks. In this project, we focus on using a Decision Tree classifier to predict the species of iris flowers based on features like sepal length, sepal width, petal length, and petal width.
-Setosa: 🌸
-Versicolor: 🌼
-Virginica: 🌺
+Setosa: 🌸  
+Versicolor: 🌼  
+Virginica: 🌺  
 
 ## Table of Contents
-- [Prepare Your Data](#Prepare_Your_Data)
-- [Import Necessary Libraries](#Import_Necessary_Libraries)
-- [Load and Split Data](#Load_and_Split_Data)
-- [Create and Train the Decision Tree Model](#Create_and_Train_the_Decision_Tree_Model)
-- [Make Predictions](#Make_Predictions)
-- [Evaluate Model Performance](#Evaluate_Model_Performance)
+- [Prepare Your Data](#Prepare-Your-Data)
+- [Import Necessary Libraries](#Import-Necessary-Libraries)
+- [Load and Split Data](#Load-and-Split-Data)
+- [Create and Train the Decision Tree Model](#Create-and-Train-the-Decision-Tree-Model)
+- [Make Predictions](#Make-Predictions)
+- [Evaluate Model Performance](#Evaluate-Model-Performance)
 - [Contributions](#contributions)
   
 
